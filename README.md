@@ -2,7 +2,7 @@
 
 I ❤️ creating extraordinary web experiences, I enjoy both frontend and backend web development (with a slight preference to frontend). 
 
-Learn more about me from my [portfolio website](https://www.kriscollinsmy.github.io/). 😊
+Learn more about me from my [portfolio website](https://kriscollinsmy.github.io/). 😊
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=kriscollinsmy&count_private=true&show_icons=true&theme=tokyonight)
 
